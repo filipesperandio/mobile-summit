@@ -1,0 +1,1279 @@
+TCordovaLib
+v5
+r1
+cCheck dependencies
+cCpHeader Classes/CDVJpegHeaderWriter.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVJpegHeaderWriter.h
+cCpHeader Classes/NSDictionary+Extensions.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVExif.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVExif.h
+cCpHeader Classes/CDVCamera.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCamera.h
+cCpHeader Classes/CDVFile.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVFile.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/CDVLocation.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVLocation.h
+cCpHeader Classes/CDVContacts.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVContacts.h
+cCpHeader Classes/CDVNotification.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVNotification.h
+cCpHeader Classes/NSData+Base64.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVReachability.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVReachability.h
+cCpHeader Classes/CDVSound.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVSound.h
+cCpHeader Classes/CDVContact.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVContact.h
+cCpHeader Classes/CDVAccelerometer.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVAccelerometer.h
+cCpHeader Classes/CDVPluginResult.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVFileTransfer.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVFileTransfer.h
+cCpHeader Classes/CDVConnection.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVConnection.h
+cCpHeader Classes/CDVCapture.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCapture.h
+cCpHeader Classes/CDVPlugin.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVSplashScreen.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVSplashScreen.h
+cCpHeader Classes/CDVBattery.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVBattery.h
+cCpHeader Classes/CDVWhitelist.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDVLocalStorage.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/CDVAvailability.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDV.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDV.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/CDVLogger.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVLogger.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVDevice.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVDevice.h
+cCpHeader Classes/CDVEcho.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVEcho.h
+cCpHeader Classes/CDVCommandQueue.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVGlobalization.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVGlobalization.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVInAppBrowser.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVInAppBrowser.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVTimer.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVTimer.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+cProcessPCH /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVContacts.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVContacts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVFileTransfer.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVFileTransfer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCapture.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCapture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCamera.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCamera.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVFile.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVFile.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocation.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLocation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVNotification.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVNotification.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVReachability.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVReachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVAccelerometer.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVAccelerometer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVSound.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVSound.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVContact.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVContact.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConnection.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVConnection.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVSplashScreen.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVSplashScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVBattery.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVBattery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLogger.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVDevice.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVGlobalization.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVGlobalization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInAppBrowser.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVInAppBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJpegHeaderWriter.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJpegHeaderWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDV.h
+c0000000051E089E900000000000006A3
+t1373669865
+s1699
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVAccelerometer.h
+c0000000051E089E900000000000004A4
+t1373669865
+s1188
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVAccelerometer.m
+c0000000051E089E9000000000000105A
+t1373669865
+s4186
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c0000000051E089E90000000000000C29
+t1373669865
+s3113
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVBattery.h
+c0000000051E089E9000000000000053A
+t1373669865
+s1338
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVBattery.m
+c0000000051E089E9000000000000163B
+t1373669865
+s5691
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCamera.h
+c0000000051E089E90000000000000F74
+t1373669865
+s3956
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCamera.m
+c0000000051E089E900000000000076A3
+t1373669865
+s30371
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCapture.h
+c0000000051E089E9000000000000123F
+t1373669865
+s4671
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCapture.m
+c0000000051E089E90000000000008E25
+t1373669865
+s36389
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c0000000051E089E900000000000008BA
+t1373669865
+s2234
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c0000000051E089E90000000000000473
+t1373669865
+s1139
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c0000000051E089E9000000000000126E
+t1373669865
+s4718
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c0000000051E089E90000000000000501
+t1373669865
+s1281
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c0000000051E089E90000000000001647
+t1373669865
+s5703
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c0000000051E089E900000000000004CB
+t1373669865
+s1227
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c0000000051E089E9000000000000103F
+t1373669865
+s4159
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVConnection.h
+c0000000051E089E9000000000000043E
+t1373669865
+s1086
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVConnection.m
+c0000000051E089E90000000000001130
+t1373669865
+s4400
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVContact.h
+c0000000051E089E90000000000001640
+t1373669865
+s5696
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVContact.m
+c0000000051E089E900000000000137BD
+t1373669865
+s79805
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVContacts.h
+c0000000051E089E900000000000014F1
+t1373669865
+s5361
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVContacts.m
+c0000000051E089E90000000000006841
+t1373669865
+s26689
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c0000000051E089E90000000000000401
+t1373669865
+s1025
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVDevice.h
+c0000000051E089E900000000000003B5
+t1373669865
+s949
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVDevice.m
+c0000000051E089E90000000000000C04
+t1373669865
+s3076
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVEcho.h
+c0000000051E089E90000000000000342
+t1373669865
+s834
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVEcho.m
+c0000000051E089E900000000000008DA
+t1373669865
+s2266
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVExif.h
+c0000000051E089E90000000000000666
+t1373669865
+s1638
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVFile.h
+c0000000051E089E90000000000000FBC
+t1373669865
+s4028
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVFile.m
+c0000000051E089E9000000000000F98B
+t1373669865
+s63883
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVFileTransfer.h
+c0000000051E089E90000000000000C39
+t1373669865
+s3129
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVFileTransfer.m
+c0000000051E089E90000000000007C78
+t1373669865
+s31864
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVGlobalization.h
+c0000000051E089E90000000000001903
+t1373669865
+s6403
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVGlobalization.m
+c0000000051E089E900000000000085E3
+t1373669865
+s34275
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVInAppBrowser.h
+c0000000051E089E90000000000000C4C
+t1373669865
+s3148
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVInAppBrowser.m
+c0000000051E089E900000000000082A1
+t1373669865
+s33441
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c0000000051E089E90000000000000906
+t1373669865
+s2310
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c0000000051E089E900000000000010D4
+t1373669865
+s4308
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c0000000051E089E900000000000003DA
+t1373669865
+s986
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c0000000051E089E9000000000000098E
+t1373669865
+s2446
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJpegHeaderWriter.h
+c0000000051E089E90000000000000AE3
+t1373669865
+s2787
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJpegHeaderWriter.m
+c0000000051E089E9000000000000672A
+t1373669865
+s26410
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c0000000051E089E900000000000006CF
+t1373669865
+s1743
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c0000000051E089E90000000000004C6C
+t1373669865
+s19564
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLocation.h
+c0000000051E089E90000000000000E25
+t1373669865
+s3621
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLocation.m
+c0000000051E089E90000000000005CD1
+t1373669865
+s23761
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLogger.h
+c0000000051E089E90000000000000377
+t1373669865
+s887
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLogger.m
+c0000000051E089E90000000000000488
+t1373669865
+s1160
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVNotification.h
+c0000000051E089E900000000000004E4
+t1373669865
+s1252
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVNotification.m
+c0000000051E089E9000000000000127E
+t1373669865
+s4734
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c0000000051E089E90000000000000892
+t1373669865
+s2194
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c0000000051E089E900000000000016AE
+t1373669865
+s5806
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c0000000051E089E90000000000000C13
+t1373669865
+s3091
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c0000000051E089E90000000000001B29
+t1373669865
+s6953
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVReachability.h
+c0000000051E089E90000000000000FF4
+t1373669865
+s4084
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVReachability.m
+c0000000051E089E900000000000026F6
+t1373669865
+s9974
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c0000000051E089E90000000000000408
+t1373669865
+s1032
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVSound.h
+c0000000051E089E90000000000000E0C
+t1373669865
+s3596
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVSound.m
+c0000000051E089E900000000000075F0
+t1373669865
+s30192
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVSplashScreen.h
+c0000000051E089E90000000000000445
+t1373669865
+s1093
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVSplashScreen.m
+c0000000051E089E90000000000002098
+t1373669865
+s8344
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c0000000051E089E9000000000000038D
+t1373669865
+s909
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c0000000051E089E90000000000000AA2
+t1373669865
+s2722
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c0000000051E089E9000000000000041C
+t1373669865
+s1052
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c0000000051E089E900000000000024E4
+t1373669865
+s9444
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c0000000051E089E90000000000000421
+t1373669865
+s1057
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c0000000051E089E900000000000012A2
+t1373669865
+s4770
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c0000000051E089E90000000000000B67
+t1373669865
+s2919
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c0000000051E089E9000000000000872B
+t1373669865
+s34603
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c0000000051E089E9000000000000053A
+t1373669865
+s1338
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c0000000051E089E90000000000002FAC
+t1373669865
+s12204
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c0000000051E089E900000000000004B4
+t1373669865
+s1204
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c0000000051E089E90000000000002216
+t1373669865
+s8726
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c0000000051E089E90000000000000392
+t1373669865
+s914
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c0000000051E089E900000000000004D8
+t1373669865
+s1240
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c0000000051E089E9000000000000037D
+t1373669865
+s893
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c0000000051E089E900000000000022CC
+t1373669865
+s8908
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c0000000051E089E900000000000005DA
+t1373669865
+s1498
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c0000000051E089E90000000000001059
+t1373669865
+s4185
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c0000000051E089E900000000000003A0
+t1373669865
+s928
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c0000000051E089E90000000000000584
+t1373669865
+s1412
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c0000000051E089E90000000000000476
+t1373669865
+s1142
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c0000000051E089E90000000000000620
+t1373669865
+s1568
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c0000000051E089E90000000000000346
+t1373669865
+s838
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVAccelerometer.o
+t1373670105
+s84568
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVBattery.o
+t1373670112
+s86892
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCamera.o
+t1373670105
+s173960
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCapture.o
+t1373670112
+s202088
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConnection.o
+t1373670109
+s85316
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVContact.o
+t1373670109
+s140516
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVContacts.o
+t1373670102
+s153136
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVDevice.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVFile.o
+t1373670106
+s207600
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVFileTransfer.o
+t1373670111
+s187132
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVGlobalization.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInAppBrowser.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1373670102
+s20072
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJpegHeaderWriter.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1373670114
+s136948
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocation.o
+t1373670102
+s154748
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLogger.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVNotification.o
+t1373670101
+s89000
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1373670110
+s85588
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1373670106
+s37168
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVReachability.o
+t1373670102
+s20888
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVSound.o
+t1373670108
+s158372
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVSplashScreen.o
+t1373670111
+s97292
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1373670112
+s96772
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1373670114
+s195444
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1373670111
+s30480
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c0000000051E08AD00000000000001CA4
+t1373670096
+s7332
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t2
+s0
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1373670101
+s11260
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1373670101
+s17492
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1373670111
+s6908
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1373670113
+s9572
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDV.h
+t1373670096
+s1699
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVAccelerometer.h
+t1373670096
+s1188
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVAvailability.h
+t1373670096
+s3113
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVBattery.h
+t1373670096
+s1338
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCamera.h
+t1373670096
+s3956
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCapture.h
+t1373670096
+s4671
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+t1373670096
+s2234
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+t1373670096
+s1139
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+t1373670096
+s1281
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVConfigParser.h
+t1373670096
+s1227
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVConnection.h
+t1373670096
+s1086
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVContact.h
+t1373670096
+s5696
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVContacts.h
+t1373670096
+s5361
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVDebug.h
+t1373670096
+s1025
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVDevice.h
+t1373670096
+s949
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVEcho.h
+t1373670096
+s834
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVExif.h
+t1373670096
+s1638
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVFile.h
+t1373670096
+s4028
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVFileTransfer.h
+t1373670096
+s3129
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVGlobalization.h
+t1373670096
+s6403
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVInAppBrowser.h
+t1373670096
+s3148
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+t1373670096
+s2310
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVJSON.h
+t1373670096
+s986
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVJpegHeaderWriter.h
+t1373670096
+s2787
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+t1373670096
+s1743
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVLocation.h
+t1373670096
+s3621
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVLogger.h
+t1373670096
+s887
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVNotification.h
+t1373670096
+s1252
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVPlugin.h
+t1373670096
+s2194
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVPluginResult.h
+t1373670096
+s3091
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVReachability.h
+t1373670096
+s4084
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+t1373670096
+s1032
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVSound.h
+t1373670096
+s3596
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVSplashScreen.h
+t1373670096
+s1093
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVTimer.h
+t1373670096
+s909
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+t1373670096
+s1052
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+t1373670096
+s1057
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVViewController.h
+t1373670096
+s2919
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+t1373670096
+s1338
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVWhitelist.h
+t1373670096
+s1204
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+t1373670096
+s914
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/NSData+Base64.h
+t1373670096
+s893
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+t1373670096
+s1498
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+t1373670096
+s928
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+t1373670096
+s1142
+
+N/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/libCordova.a
+t2
+s0
+
+N/var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch.pth
+t1373670099
+s2926088
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesff40a187c290b741^dffe9c88c290b741^---0#1#0#--18"Check dependencies36"B4993C0A-9C6E-406E-B70F-4CBC062592E0-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVAccelerometer.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVAccelerometer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVBattery.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVBattery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCamera.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCamera.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCapture.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCapture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362954.971186
+e395362956.607271
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.mda73f98ac290b741^e6ea9b8cc290b741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^4912"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"F86D2E38-90E0-40CA-B444-5F5D2FF267BB-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362953.004256
+e395362955.492535
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m36560289c290b741^f1657e8bc290b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^4870"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"5500D102-2A86-48FB-A188-F360A476F3E8-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362955.495975
+e395362955.781685
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVConfigParser.m361d818bc290b741^fa27c88bc290b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^4870"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"6BEBE30C-C5CD-4164-A6FF-B6AE536B96AF-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConnection.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVConnection.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVContact.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVContact.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVContacts.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVContacts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVDevice.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362952.769321
+e395362955.182168
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVDevice.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVDevice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVDevice.ma9c0c588c290b741^95ee2e8bc290b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVDevice.m0000000000000000^4834"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVDevice.o Classes/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVDevice.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVDevice.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVDevice.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVDevice.o36"A70439C7-9C8A-488A-B8D1-779E6FB3B18E-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362952.772886
+e395362955.029488
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVEcho.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVEcho.ma6b4c688c290b741^d788088bc290b741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVEcho.m0000000000000000^4822"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVEcho.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o36"E7483631-9E88-46A0-B967-1B4176D1B9D2-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVFile.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVFile.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVFileTransfer.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVFileTransfer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVGlobalization.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVGlobalization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362955.037894
+e395362956.930939
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVGlobalization.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVGlobalization.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVGlobalization.m139c0a8bc290b741^1552ee8cc290b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVGlobalization.m0000000000000000^4876"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVGlobalization.o Classes/CDVGlobalization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVGlobalization.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVGlobalization.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVGlobalization.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVGlobalization.o36"5BC030EF-8B1A-446C-82F8-AB589A1AFD5F-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInAppBrowser.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVInAppBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362955.187187
+e395362957.445579
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInAppBrowser.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVInAppBrowser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVInAppBrowser.medf3308bc290b741^4910728dc290b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVInAppBrowser.m0000000000000000^4870"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInAppBrowser.o Classes/CDVInAppBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInAppBrowser.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInAppBrowser.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVInAppBrowser.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInAppBrowser.o36"D249DDA3-3BFA-446C-85AA-9EC7AA436F38-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362955.785116
+e395362956.020683
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJSON.md3ddd98bc290b741^118a058cc290b741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^4822"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"54A81F60-7421-43FA-A819-2F2C6D364133-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJpegHeaderWriter.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJpegHeaderWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362956.933083
+e395362957.457248
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJpegHeaderWriter.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJpegHeaderWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJpegHeaderWriter.m41bbef8cc290b741^0e13758dc290b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJpegHeaderWriter.m0000000000000000^4894"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJpegHeaderWriter.o Classes/CDVJpegHeaderWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJpegHeaderWriter.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJpegHeaderWriter.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVJpegHeaderWriter.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJpegHeaderWriter.o36"49286531-414B-4C2D-AACE-BCE571E208A6-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocation.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLocation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLogger.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362952.768033
+e395362954.969316
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLogger.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLogger.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLogger.mc7b9c588c290b741^9851f88ac290b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLogger.m0000000000000000^4834"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLogger.o Classes/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLogger.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLogger.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVLogger.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLogger.o36"C271386E-DAD6-433C-BA0F-979F672AAAE6-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVNotification.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVNotification.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVReachability.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVReachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVSound.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVSound.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVSplashScreen.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVSplashScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362957.211258
+e395362957.468144
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVTimer.m8fff368dc290b741^1e18788dc290b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^4828"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"F22F6044-0B2A-4CCD-8F81-6FD8EAACBEBE-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362956.024423
+e395362957.205452
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.mfe80078cc290b741^0f97348dc290b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^4876"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"D5ED10F1-A1E1-41E9-9470-00330E784F20-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362956.612021
+e395362957.665132
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.ma0c29d8cc290b741^6f45aa8dc290b741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^4888"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"3D33634F-CFAF-4A67-AEB3-F862DE9EC97C-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395362952.768002
+e395362952.992978
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m6039c688c290b741^b132fe88c290b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^4894"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -DDEBUG -include /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"FAEBA238-8871-48F3-B654-C3E652E702AC-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCpHeader Classes/CDV.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDV.h
+r0
+
+CCpHeader Classes/CDVAccelerometer.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVAccelerometer.h
+r0
+
+CCpHeader Classes/CDVAvailability.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVAvailability.h
+r0
+
+CCpHeader Classes/CDVBattery.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVBattery.h
+r0
+
+CCpHeader Classes/CDVCamera.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCamera.h
+r0
+
+CCpHeader Classes/CDVCapture.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCapture.h
+r0
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+r0
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+r0
+
+CCpHeader Classes/CDVCommandQueue.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+r0
+
+CCpHeader Classes/CDVConfigParser.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVConfigParser.h
+r0
+
+CCpHeader Classes/CDVConnection.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVConnection.h
+r0
+
+CCpHeader Classes/CDVContact.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVContact.h
+r0
+
+CCpHeader Classes/CDVContacts.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVContacts.h
+r0
+
+CCpHeader Classes/CDVDebug.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVDebug.h
+r0
+
+CCpHeader Classes/CDVDevice.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVDevice.h
+r0
+
+CCpHeader Classes/CDVEcho.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVEcho.h
+r0
+
+CCpHeader Classes/CDVExif.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVExif.h
+r0
+
+CCpHeader Classes/CDVFile.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVFile.h
+r0
+
+CCpHeader Classes/CDVFileTransfer.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVFileTransfer.h
+r0
+
+CCpHeader Classes/CDVGlobalization.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVGlobalization.h
+r0
+
+CCpHeader Classes/CDVInAppBrowser.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVInAppBrowser.h
+r0
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+r0
+
+CCpHeader Classes/CDVJSON.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVJSON.h
+r0
+
+CCpHeader Classes/CDVJpegHeaderWriter.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVJpegHeaderWriter.h
+r0
+
+CCpHeader Classes/CDVLocalStorage.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+r0
+
+CCpHeader Classes/CDVLocation.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVLocation.h
+r0
+
+CCpHeader Classes/CDVLogger.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVLogger.h
+r0
+
+CCpHeader Classes/CDVNotification.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVNotification.h
+r0
+
+CCpHeader Classes/CDVPlugin.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVPlugin.h
+r0
+
+CCpHeader Classes/CDVPluginResult.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVPluginResult.h
+r0
+
+CCpHeader Classes/CDVReachability.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVReachability.h
+r0
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+r0
+
+CCpHeader Classes/CDVSound.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVSound.h
+r0
+
+CCpHeader Classes/CDVSplashScreen.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVSplashScreen.h
+r0
+
+CCpHeader Classes/CDVTimer.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVTimer.h
+r0
+
+CCpHeader Classes/CDVURLProtocol.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+r0
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+r0
+
+CCpHeader Classes/CDVViewController.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVViewController.h
+r0
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+r0
+
+CCpHeader Classes/CDVWhitelist.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/CDVWhitelist.h
+r0
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+r0
+
+CCpHeader Classes/NSData+Base64.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/NSData+Base64.h
+r0
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+r0
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+r0
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+r0
+
+CLibtool /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/libCordova.a normal i386
+s395362957.672426
+e395362957.747939
+r1
+xLibtool
+x/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/libCordova.a
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Libtool /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/libCordova.a normal i386ad86ac8dc290b741^927abf8dc290b741^---0#0#0#--1759"Libtool /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/libCordova.a normal i386    cd /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/fesperan/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/fesperan/.rvm/bin:/usr/local/oracle/bin:/usr/local/opt/play:/usr/local/opt/postgresql/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools:/Library/Java/Home/bin:vendor/bundle/binstubs:/usr/local/heroku/bin:/usr/local/opt/coreutils/libexec/gnubin):/Users/fesperan/workspaces/vraptor-scaffold/bin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/share:/usr/local/oracle/ohome/bin:/usr/local/share/python:/Users/fesperan/node_modules/.bin:/Users/fesperan/Dropbox/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build -filelist /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/fesperan/workspaces/mobile-summit/cordova/simple-project/platforms/ios/build/libCordova.a36"28E8161B-D2D4-473A-BC4F-E98319765741-
+
+CProcessPCH /var/folders/kz/5gq788b110l5_z_13_jplgtwbwnywx/C/com.apple.Xcode.399178653/SharedPrecompiledHeaders/CordovaLib_Prefix-avcqeirtddcscngmssfcmnofflxs/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
