@@ -1,0 +1,7 @@
+npm install -g cordova
+
+cordova create simple-project
+cordova platforms add ios
+cordova platforms add android
+cordova ripple android
+cordova build ios; cordova emulate ios
