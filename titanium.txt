@@ -1,0 +1,6 @@
+ npm install -g titanium
+ titanium --help
+ titanium login filipesperandio@gmail.com
+ titanium setup
+ titanium create simple-project
+ titanium build 

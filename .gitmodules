@@ -1,3 +1,6 @@
 [submodule "present-something"]
 	path = present-something
 	url = git@github.com:Trecenti/present-something.git
+[submodule "ToDoApp"]
+	path = ToDoApp
+	url = https://github.com/filipesperandio/ToDoApp.git
